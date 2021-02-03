@@ -293,7 +293,7 @@ def main():
     square = [1, 1]
 
     # radius of the lamps
-    radius = 0.2
+    radius = 0.3
 
     # probabilities
     mutation_probability_coord = 0.15
